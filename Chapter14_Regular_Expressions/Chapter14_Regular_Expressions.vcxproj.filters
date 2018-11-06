@@ -32,5 +32,20 @@
     <ClInclude Include="src\regexiter1.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="src\regextokeniter1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\regexreplace1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\regex4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\regexexception.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\regexexception_use.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
